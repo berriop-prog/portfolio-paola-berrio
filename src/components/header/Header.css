@@ -6,3 +6,23 @@ header {
   justify-content: space-between;
   background-color:lightpink;  
 }
+
+.header-options, .header-title {
+    width: 50%;
+    height: 100%;
+    display: flex;    
+}
+
+.header-title {
+    align-items: center;
+    justify-content: center;
+}
+
+.header-options {
+    align-items: center;
+    justify-content: flex-end;
+}
+.option {
+    padding: 10px 15px;
+    cursor: pointer;
+}
