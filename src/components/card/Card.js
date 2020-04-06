@@ -1,17 +1,16 @@
 import React from 'react';
 import './Card.css';
 
-const Card = () => {
+const Card = (props) => {
   return (
-    <Card>
-      <div className="card-content" >
-        <div className="card-header" >Titulo del proyecto</div>    
-        <div className='card-description'>
-          Descripción de proyecto
-        </div>
+    <div className="card">
+      <div className="card-body">
+        <h2 className="card-title">{props.title}</h2>
+        <p className="card-text">{props.text}</p>
+        <a href={`https://berriop-prog.github.io/${props.projectName}`}>Ver más</a>
       </div>
-      <Image src="" />      
-    </Card>
+      <div className="card-img" style={{backgroundImage: `url(${props.imgName})`}}></div>
+    </div>
   );
 };
 
