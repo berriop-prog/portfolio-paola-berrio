@@ -1,10 +1,10 @@
 header {
   height: 70px;
   width: 100%;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
   display: flex;
   justify-content: space-between;
-  background-color:lightpink;  
+  border-bottom:solid 2px red; 
 }
 
 .header-options, .header-title {
@@ -20,11 +20,13 @@ header {
 
 .header-options {
     align-items: center;
-    justify-content: flex-end;
+    justify-content: flex-end;   
 }
+
 .option {
-    padding: 10px 15px;
+    padding: 10px 20px;
     cursor: pointer;
+    border-left: solid 2px red; 
 }
 
 h1{

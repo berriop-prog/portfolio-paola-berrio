@@ -6,6 +6,9 @@ import Contact from './pages/contact/Contact';
 import Projects from './pages/projects/Projects';
 import './App.css';
 
+
+
+
 const App = () => {
   return (
     <div>

@@ -1,9 +1,18 @@
 import React from 'react';
+import './Contact.css';
+import SocialMedia from '../../components/social-media/SocialMedia';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Contact = () => {
-    return (
-        <h1>Contact page</h1>
-    );
+  return (
+    <div>
+      <h3>Contacto </h3>
+      <SocialMedia
+        text="berriop@gmail.com"
+        title="Social Media"        
+      />
+    </div>
+  );
 };
 
 export default Contact;
