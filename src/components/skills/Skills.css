@@ -1,0 +1,20 @@
+.skills-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.horizontal {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;    
+}
+
+li {
+    margin: 0 5px;
+    padding: 0 5px;
+}

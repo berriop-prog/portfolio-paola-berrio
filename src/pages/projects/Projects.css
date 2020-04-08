@@ -6,3 +6,15 @@ div.projects-wrapper {
   align-items: center;
   flex-wrap: wrap;
 }
+
+
+.projects-wrapper {
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto 0 auto;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  text-align: justify; 
+}
+

@@ -1,4 +1,4 @@
-const projectsData = [
+export const projectsData = [
   {
     title: 'Pomodoro con React',
     text: '10',
@@ -17,13 +17,11 @@ const projectsData = [
     title: 'Random Quote Machine con React',
     text: '8 ',
     projectName: 'tributoRatas',
-    imgName:
-      '7random.png?alt=media&token=aaa00a1e-8403-40a7-8d74-82f5287ac213',
+    imgName: '7random.png?alt=media&token=aaa00a1e-8403-40a7-8d74-82f5287ac213',
   },
   {
-    title: 'Title-Case-a-SentencePassed',
-    text:
-      '7 Trabajo colaborativo con Yeraldith Camargo Ayala de FCC y AcademiaGeek educación virtural por Covid-19',
+    title: 'Title Case a Sentence Passed',
+    text: '7 Trabajo con Yeraldith Camargo Ayala de FCC y AcademiaGeek',
     projectName: 'Title-Case-a-SentencePassed',
     imgName:
       'TrabajoPareja.png?alt=media&token=5d33d980-326f-4928-8ecd-2effc2eacfb5',
@@ -40,8 +38,7 @@ const projectsData = [
     text:
       '5 Proyecto de clase en equipos con realizado con HTML, CSS y Bootstrap.',
     projectName: 'Reto-1',
-    imgName:
-      '5reto1.png?alt=media&token=077f3a2a-edac-4495-8214-ced50caa9a0a',
+    imgName: '5reto1.png?alt=media&token=077f3a2a-edac-4495-8214-ced50caa9a0a',
   },
   {
     title: 'Technical Documentation Page',
@@ -77,4 +74,51 @@ const projectsData = [
   },
 ];
 
-export default projectsData;
+export const skillsList = [
+  'HTML',
+  'css',
+  'JavaScript',
+  'Git',
+  'GitHub',
+  'Boostrap',
+  'React',
+];
+
+export const aboutData = [
+  {
+    title: 'Descripción',
+    paragraph: `Soy una apasionada por la tecnología, la
+    actividad física, los animales y la naturaleza. De
+    la tecnología he aprendido que cada día es
+    necesario reinventarse para enfrentar los
+    desafíos de la vida contemporánea; de la
+    actividad física, que la disciplina y el trabajo duro
+    valen más que cualquier talento “innato”; y de los
+    animales y la naturaleza: ¡todo! La observación y
+    la paciencia son virtudes que procuro cultivar
+    para examinar los problemas que se presentan en
+    cualquier circunstancia de la vida, pues permiten
+    ampliar los caminos para hallar soluciones`,
+    imgName:
+      'IMG_20191201_175832.jpg?alt=media&token=0c484b03-9e28-4b2a-9c81-1ffb969ea64e',
+    float: 'right'
+  },
+  {
+    title: 'Pasiones',
+    paragraph: `Soy una apasionada por la tecnología, la
+    actividad física, los animales y la naturaleza. De
+    la tecnología he aprendido que cada día es
+    necesario reinventarse para enfrentar los
+    desafíos de la vida contemporánea; de la
+    actividad física, que la disciplina y el trabajo duro
+    valen más que cualquier talento “innato”; y de los
+    animales y la naturaleza: ¡todo! La observación y
+    la paciencia son virtudes que procuro cultivar
+    para examinar los problemas que se presentan en
+    cualquier circunstancia de la vida, pues permiten
+    ampliar los caminos para hallar soluciones`,
+    imgName:
+      'IMG_5322.JPG?alt=media&token=a5f5bdd4-24c3-4c47-8470-07c5e69cc2e3',
+    float: 'left'
+  },
+];

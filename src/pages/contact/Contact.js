@@ -9,7 +9,7 @@ const Contact = () => {
       <h3>Contacto </h3>
       <SocialMedia
         text="berriop@gmail.com"
-        title="Social Media"        
+        title="Social media"        
       />
     </div>
   );

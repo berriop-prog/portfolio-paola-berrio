@@ -7,11 +7,8 @@ const SocialMedia = (props) => {
   return (
     <div className="social-container">
     <p className="social-text">{props.text}</p>
-      <h2 className="social-title">{props.title}</h2>
-      
-      <a href="berriop@gmail.com" className="social">
-        <FontAwesomeIcon icon={faGoogle}  />
-      </a>
+      <h2 className="social-title">{props.title}</h2>     
+    
       <a href="https://github.com/berriop-prog" className="social">
         <FontAwesomeIcon icon={faGithub} />
       </a>
