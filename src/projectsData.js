@@ -87,18 +87,7 @@ export const skillsList = [
 export const aboutData = [
   {
     title: 'Descripción',
-    paragraph: `Soy una apasionada por la tecnología, la
-    actividad física, los animales y la naturaleza. De
-    la tecnología he aprendido que cada día es
-    necesario reinventarse para enfrentar los
-    desafíos de la vida contemporánea; de la
-    actividad física, que la disciplina y el trabajo duro
-    valen más que cualquier talento “innato”; y de los
-    animales y la naturaleza: ¡todo! La observación y
-    la paciencia son virtudes que procuro cultivar
-    para examinar los problemas que se presentan en
-    cualquier circunstancia de la vida, pues permiten
-    ampliar los caminos para hallar soluciones`,
+    paragraph: `¡Hola! En la actualidad estudio desarrollo Web FrontEnd. Tuve la oportunidad de participar en el Bootcamp de AcademiaGeek, y tengo la fortuna de contar con la mentoría de David Pulgarín Palacio, desarrollador Web UI de Globant, además estudio la tecnología en Análisis y Desarrollo de Sistemas de Información. Soy historiadora con un máster en Historia y Humanidades Digitales. Si quieres conocer con más detalle mi historia laboral, puede consultarla en mi perfil de LinkedIn.`,
     imgName:
       'IMG_20191201_175832.jpg?alt=media&token=0c484b03-9e28-4b2a-9c81-1ffb969ea64e',
     float: 'right'
@@ -120,5 +109,11 @@ export const aboutData = [
     imgName:
       'IMG_5322.JPG?alt=media&token=a5f5bdd4-24c3-4c47-8470-07c5e69cc2e3',
     float: 'left'
+  },
+];
+
+export const banner = [
+  {
+  imgName:'rashtravardhan-kataria-m-D_PAxLcTo-unsplash.jpg?alt=media&token=cc5b993b-1470-49cd-b0f4-668025be9eda',
   },
 ];

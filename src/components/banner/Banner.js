@@ -3,9 +3,8 @@ import './Banner.css';
 
 const Banner = () => {
   return (
-    <div>
-      <img src="/rashtravardhan-kataria.jpg"></img>
-      <img href='/rashtravardhan-kataria.jpg'></img>
+    <div className="img-banner">
+      <img src="https://firebasestorage.googleapis.com/v0/b/portafolio-paolab-react.appspot.com/o/banner.jpg?alt=media&token=9800e9e2-ff5f-41a9-bac7-a9f62db518e5" />
     </div>
   );
 };

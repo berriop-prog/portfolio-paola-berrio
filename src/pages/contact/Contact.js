@@ -5,8 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Contact = () => {
   return (
-    <div>
-      <h3>Contacto </h3>
+    <div>      
       <SocialMedia
         text="berriop@gmail.com"
         title="Social media"        

@@ -16,5 +16,6 @@
 
 li {
     margin: 0 5px;
-    padding: 0 5px;
+    padding: 0 2px;
+    font-size: 1.3rem;
 }

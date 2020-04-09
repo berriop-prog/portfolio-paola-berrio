@@ -1,9 +1,8 @@
 .card-img {
-    width: 240px;
-    height: 200px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    margin: 5px 0;
-  }
-  
+  width: 250px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 5px 0;
+}
