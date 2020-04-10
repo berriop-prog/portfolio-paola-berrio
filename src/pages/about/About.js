@@ -16,7 +16,7 @@ const About = () => {
             <TextContainer title={item.title}
               paragraph={item.paragraph}
               float={item.float} />
-              <ImageContainer imgName={item.imgName} float={item.float} /> 
+              
           </div>
         ))
       }     
