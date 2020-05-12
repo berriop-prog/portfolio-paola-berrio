@@ -1,7 +1,6 @@
 import React from 'react';
 import TextContainer from '../../components/text-container/TextContainer';
 import Skills from '../../components/skills/Skills';
-import ImageContainer from '../../components/image-container/ImageContainer';
 import { aboutData } from '../../projectsData';
 import Banner from '../../components/banner/Banner';
 import './About.css';

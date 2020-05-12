@@ -75,19 +75,19 @@ export const projectsData = [
 ];
 
 export const skillsList = [
-  'HTML',
-  'css',
+  'HTML5',
+  'CSS',
   'JavaScript',
   'Git',
   'GitHub',
-  'Boostrap',
+  'Bootstrap',
   'React',
 ];
 
 export const aboutData = [
   {
     title: 'Descripción',
-    paragraph: `¡Hola! En la actualidad estudio desarrollo Web FrontEnd. Tuve la oportunidad de participar en el Bootcamp de AcademiaGeek, y tengo la fortuna de contar con la mentoría de David Pulgarín Palacio, desarrollador Web UI de Globant, además estudio la tecnología en Análisis y Desarrollo de Sistemas de Información. Soy historiadora con un máster en Historia y Humanidades Digitales. Si quieres conocer con más detalle mi historia laboral, puede consultarla en mi perfil de LinkedIn.`,
+    paragraph: `¡Hola! En la actualidad estudio desarrollo Web Frontend. Tuve la oportunidad de participar en el Bootcamp de AcademiaGeek, además estudio la tecnología en Análisis y Desarrollo de Sistemas de Información. Soy historiadora con un máster en Historia y Humanidades Digitales. `,
     imgName:
       'IMG_20191201_175832.jpg?alt=media&token=0c484b03-9e28-4b2a-9c81-1ffb969ea64e',
     float: 'right'
