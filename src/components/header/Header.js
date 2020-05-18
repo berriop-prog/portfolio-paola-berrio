@@ -6,17 +6,17 @@ const Header = () => {
   return (
     <header>
       <div className="header-title">
-        <h1> Paola Berrío's portfolio </h1>
+        <h1> Paola Berrío portafolio </h1>
       </div>
       <div className="header-options">
         <Link className="option" to="/">
-          About
+          Acerca
         </Link>
         <Link className="option" to="/contact">
-          Contact
+          Contacto
         </Link>
-        <Link className="option" to="/projects">
-          Projects
+        <Link className="option" to="/">
+          Proyectos
         </Link>
       </div>
     </header>
