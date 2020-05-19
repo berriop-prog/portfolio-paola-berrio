@@ -34,3 +34,11 @@ header {
   cursor: pointer;
   border-left: solid 2px #3283fb;
 }
+
+.option:hover {
+  transform: scale(1.1);
+}
+
+.option:hover a {
+  border-bottom: 1px solid #ffffff;
+}

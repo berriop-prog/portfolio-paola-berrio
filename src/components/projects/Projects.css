@@ -4,15 +4,20 @@ div.projects-wrapper {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  flex-wrap: wrap;  
+  flex-wrap: wrap;
+  background-color: lightskyblue;
 }
 .projects-wrapper {
-  max-width: 640px;
+  max-width: 740px;
   width: 100%;
   margin: 0 auto 0 auto;
   display: flex;
-  justify-content: center;  
+  justify-content: center;
   align-items: center;
   text-align: justify;
 }
 
+.projects-title {
+  font-size: 28px;
+  font-weight: 100;
+}
