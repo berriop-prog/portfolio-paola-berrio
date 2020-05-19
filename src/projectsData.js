@@ -1,34 +1,34 @@
 export const projectsData = [
   {
     title: 'Pomodoro',
-    text: 'Realizado con React y los parámetros de FreeCodeCamp',
+    text: 'Realizado con React',
     projectName: 'LandingPage',
     imgName:
       '9pomodoro.png?alt=media&token=e78e559e-6b72-40fd-a11f-86413246222d',
   },
   {
-    title: 'Calculator',
-    text: 'Realizada con React y los parámetros de FreeCodeCamp',
+    title: 'Calculadora',
+    text: 'Realizado con React',
     projectName: 'LandingPage',
     imgName:
       '8calculator.png?alt=media&token=a4196f85-f88f-43b0-91b0-a0b05400e5cb',
   },
   {
     title: 'Random Quote Machine',
-    text: 'Realizado con React y los parámetros de FreeCodeCamp',
+    text: 'Realizado con React',
     projectName: 'tributoRatas',
     imgName: '7random.png?alt=media&token=aaa00a1e-8403-40a7-8d74-82f5287ac213',
   },
   {
     title: 'Title Case a Sentence Passed',
-    text: 'Trabajo con Yeraldith Camargo Ayala de FCC y AcademiaGeek',
+    text: 'Realizado con Yeraldith Camargo Ayala con los parámetros de Free Code Camp y Academia Geek',
     projectName: 'Title-Case-a-SentencePassed',
     imgName:
       'TrabajoPareja.png?alt=media&token=5d33d980-326f-4928-8ecd-2effc2eacfb5',
   },
   {
-    title: 'Tribute Page',
-    text: '6 primer portafolio',
+    title: 'Primer portafolio',
+    text: 'Primer portafolio',
     projectName: 'Portafolio',
     imgName:
       '6portafolio.png?alt=media&token=91bf8125-ca8e-44e5-9b1f-3533544a9c50',
@@ -36,14 +36,14 @@ export const projectsData = [
   {
     title: 'Trabajo en equipo',
     text:
-      'Proyecto de clase en equipos con realizado con HTML, CSS y Bootstrap.',
+      'Realizado con HTML, CSS y Bootstrap',
     projectName: 'Reto-1',
     imgName: '5reto1.png?alt=media&token=077f3a2a-edac-4495-8214-ced50caa9a0a',
   },
   {
-    title: 'Technical Documentation Page',
+    title: 'Página de documentación técnica',
     text:
-      'Trabajo de clase realizado con HTML, CSS y Bootstrap con los parámetros de FreeCodeCamp',
+      'Realizado con HTML, CSS y Bootstrap',
     projectName: 'DocumentPage',
     imgName:
       '4documentPage.png?alt=media&token=3c1a5344-96fd-4475-bf2c-e8e94c568655',
@@ -51,23 +51,23 @@ export const projectsData = [
   {
     title: 'Landing page',
     text:
-      'Trabajo de clase realizado con HTML y CSS con los parámetros de FreeCodeCamp',
+      'Realizado con HTML y CSS',
     projectName: 'LandingPage',
     imgName:
       '3LandingPageFCC.png?alt=media&token=9a10d226-1d1f-45e8-a910-02b771b666d5',
   },
   {
-    title: 'Form',
+    title: 'Formulario',
     text:
-      'Trabajo de clase realizado con HTML y CSS con los parámetros de FreeCodeCamp.',
+      'Realizado con HTML y CSS',
     projectName: 'FormFCC',
     imgName:
       '2FormFCC.png?alt=media&token=a978d905-7b5d-46e1-9d2f-6d75b0525ff2',
   },
   {
-    title: 'Tribute Page',
+    title: 'Página de tributo',
     text:
-      'Trabajo de clase realizado con HTML y CSS con los parámetros de FreeCodeCamp.',
+      'Realizado con HTML y CSS',
     projectName: 'tributoRatas',
     imgName:
       '1FCCtributoRatas.png?alt=media&token=620d505e-1f71-4311-a1a1-97b11355f29b',

@@ -4,7 +4,7 @@ header {
   margin-bottom: 0px;
   display: flex;
   justify-content: space-between;
-  border-bottom: solid 2px #3283fb;
+  border-bottom: solid 2px #82898F;
   font-size: 1rem;
 }
 
@@ -32,7 +32,7 @@ header {
 .option {
   padding: 10px 20px;
   cursor: pointer;
-  border-left: solid 2px #3283fb;
+  border-left: solid 2px #82898F;
 }
 
 .option:hover {
