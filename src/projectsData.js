@@ -17,7 +17,7 @@ export const projectsData = [
     title: 'Random Quote Machine',
     text: 'Realizado con React',
     projectName: 'tributoRatas',
-    imgName: '7random.png?alt=media&token=aaa00a1e-8403-40a7-8d74-82f5287ac213',
+    imgName: 'https://vigilant-hawking-d773a6.netlify.app/',
   },
   {
     title: 'Title Case a Sentence Passed',
@@ -87,14 +87,14 @@ export const skillsList = [
 export const aboutData = [
   {
     title: 'Descripción',
-    paragraph: `¡Hola! En la actualidad estudio desarrollo Web Frontend. Tuve la oportunidad de participar en el Bootcamp de AcademiaGeek, además estudio la tecnología en Análisis y Desarrollo de Sistemas de Información. Soy historiadora con un máster en Historia y Humanidades Digitales. `,
+    paragraph: `¡Hola! Soy una apasionada del desarrollo Web Frontend. Tuve la oportunidad de participar en el Bootcamp de AcademiaGeek, además estudio en el SENA la tecnología en Análisis y Desarrollo de Sistemas de Información. Soy historiadora con un máster en Historia y Humanidades Digitales.`,
     imgName:
       'IMG_20191201_175832.jpg?alt=media&token=0c484b03-9e28-4b2a-9c81-1ffb969ea64e',
     float: 'right'
   },
   {
     title: 'Pasiones',
-    paragraph: `Soy una apasionada por la tecnología, la
+    paragraph: `Amo la tecnología, la
     actividad física, los animales y la naturaleza. De
     la tecnología he aprendido que cada día es
     necesario reinventarse para enfrentar los
