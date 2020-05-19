@@ -1,11 +1,14 @@
 .skills-container {
-    width: 100%;
+    width: 708px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;    
     flex-direction: column;
 }
-
+.skills-title{
+    text-align: left;
+    font-size: 28px;
+    font-weight: 100;  
+  }
 .horizontal {
     display: flex;
     justify-content: space-around;
@@ -15,7 +18,9 @@
 }
 
 li {
+    list-style-type: none;
     margin: 0 5px;
     padding: 0 2px;
-    font-size: 1.3rem;
+    font-size: 20px;
+    color: #a4a4a4;
 }

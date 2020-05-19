@@ -5,8 +5,8 @@ import './Header.css';
 const Header = () => {
   return (
     <header>
-      <div className="header-title">
-        <h1> Paola Berrío portafolio </h1>
+      <div className="header">
+        <h1 className="header-title">Desarrolladora web junior</h1>
       </div>
       <div className="header-options">
         <Link className="option" to="/">

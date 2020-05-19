@@ -4,11 +4,8 @@ div.projects-wrapper {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  flex-wrap: wrap;
-  
+  flex-wrap: wrap;  
 }
-
-
 .projects-wrapper {
   max-width: 640px;
   width: 100%;

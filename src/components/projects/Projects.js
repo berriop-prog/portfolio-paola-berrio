@@ -6,6 +6,7 @@ import './Projects.css';
 const Projects = () => {
   return (
     <div className='projects-wrapper'>
+    
       {projectsData.map((projectData, index) => <Card key={index} {...projectData} />)}
     </div>
   );

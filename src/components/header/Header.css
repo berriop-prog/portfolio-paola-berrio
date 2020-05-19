@@ -4,31 +4,33 @@ header {
   margin-bottom: 0px;
   display: flex;
   justify-content: space-between;
-  border-bottom:solid 2px red; 
+  border-bottom: solid 2px #3283fb;
+  font-size: 1rem;
 }
 
-.header-options, .header-title {
-    width: 50%;
-    height: 100%;
-    display: flex;    
+.header-options,
+.header {
+  width: 50%;
+  height: 100%;
+  display: flex;
 }
 
+.header {
+  align-items: center;
+  justify-content: left;
+  padding-left: 50px;
+}
 .header-title {
-    align-items: center;
-    justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 400;
 }
-
 .header-options {
-    align-items: center;
-    justify-content: flex-end;   
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .option {
-    padding: 10px 20px;
-    cursor: pointer;
-    border-left: solid 2px red; 
-}
-
-h1{
-   font-size: 1.5em; 
+  padding: 10px 20px;
+  cursor: pointer;
+  border-left: solid 2px #3283fb;
 }
