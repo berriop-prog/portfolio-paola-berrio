@@ -52,7 +52,7 @@ export const projectsData = [
 
 export const skillsList = [
   'HTML5',
-  'CSS',
+  'CSS3',
   'JavaScript',
   'Git',
   'GitHub',
