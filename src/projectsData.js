@@ -1,76 +1,52 @@
 export const projectsData = [
   {
+    title: 'GitHub clone',
+    text: 'In this project I practiced new knowledge in React like validations, scss, jxs, js',
+    projectName: 'sleepy-fermat-1f7a68',
+    imgName:
+      'github.png?alt=media&token=b2a56d8c-1605-4ec3-be66-fe3c7f731461',
+  },
+  {
+    title: 'Star Wars',
+    text: 'Consumo de API Star Wars',
+    projectName: 'pensive-stonebraker-3852e3',
+    imgName:
+      'StarWars.jpg?alt=media&token=8c9db1a7-3ce0-4b13-80fb-9cda886bd6be',
+  },
+  {
+    title: 'Prueba para Neumomed',
+    text: 'Realizado con VUE',
+    projectName: 'youthful-leavitt-22b2ac',
+    imgName: 'robot.png?alt=media&token=4eeba260-83f8-4804-bece-8574abb046a9',
+  },
+  {
     title: 'Pomodoro',
     text: 'Realizado con React',
-    projectName: 'LandingPage',
+    projectName: 'nervous-leakey-569f65',
     imgName:
-      '9pomodoro.png?alt=media&token=e78e559e-6b72-40fd-a11f-86413246222d',
+      'pomodoro.png?alt=media&token=55f82f16-c340-450c-a888-0b37b4335bd4',
   },
   {
     title: 'Calculadora',
     text: 'Realizado con React',
-    projectName: 'LandingPage',
+    projectName: 'naughty-elion-328231',
     imgName:
       '8calculator.png?alt=media&token=a4196f85-f88f-43b0-91b0-a0b05400e5cb',
   },
   {
-    title: 'Random Quote Machine',
-    text: 'Realizado con React',
-    projectName: 'tributoRatas',
-    imgName: 'https://vigilant-hawking-d773a6.netlify.app/',
-  },
-  {
-    title: 'Title Case a Sentence Passed',
-    text: 'Realizado con Yeraldith Camargo Ayala con los parámetros de Free Code Camp y Academia Geek',
-    projectName: 'Title-Case-a-SentencePassed',
-    imgName:
-      'TrabajoPareja.png?alt=media&token=5d33d980-326f-4928-8ecd-2effc2eacfb5',
-  },
-  {
-    title: 'Primer portafolio',
-    text: 'Primer portafolio',
-    projectName: 'Portafolio',
-    imgName:
-      '6portafolio.png?alt=media&token=91bf8125-ca8e-44e5-9b1f-3533544a9c50',
-  },
-  {
-    title: 'Trabajo en equipo',
+    title: 'Random Machine',
     text:
-      'Realizado con HTML, CSS y Bootstrap',
-    projectName: 'Reto-1',
-    imgName: '5reto1.png?alt=media&token=077f3a2a-edac-4495-8214-ced50caa9a0a',
+      'Realizado con React',
+    projectName: 'vigilant-hawking-d773a6',
+    imgName: '7random.png?alt=media&token=aaa00a1e-8403-40a7-8d74-82f5287ac213',
   },
   {
-    title: 'Página de documentación técnica',
+    title: 'Consumo de API',
     text:
-      'Realizado con HTML, CSS y Bootstrap',
-    projectName: 'DocumentPage',
+      'Consumo API de GitHub',
+    projectName: 'infallible-fermi-3a79e3',
     imgName:
-      '4documentPage.png?alt=media&token=3c1a5344-96fd-4475-bf2c-e8e94c568655',
-  },
-  {
-    title: 'Landing page',
-    text:
-      'Realizado con HTML y CSS',
-    projectName: 'LandingPage',
-    imgName:
-      '3LandingPageFCC.png?alt=media&token=9a10d226-1d1f-45e8-a910-02b771b666d5',
-  },
-  {
-    title: 'Formulario',
-    text:
-      'Realizado con HTML y CSS',
-    projectName: 'FormFCC',
-    imgName:
-      '2FormFCC.png?alt=media&token=a978d905-7b5d-46e1-9d2f-6d75b0525ff2',
-  },
-  {
-    title: 'Página de tributo',
-    text:
-      'Realizado con HTML y CSS',
-    projectName: 'tributoRatas',
-    imgName:
-      '1FCCtributoRatas.png?alt=media&token=620d505e-1f71-4311-a1a1-97b11355f29b',
+      'github.png?alt=media&token=b2a56d8c-1605-4ec3-be66-fe3c7f731461',
   },
 ];
 

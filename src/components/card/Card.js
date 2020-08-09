@@ -8,7 +8,7 @@ const Card = (props) => {
       <div className="card-body">
         <h2 className="card-title">{props.title}</h2>
         <p className="card-text">{props.text}</p>
-        <a href={`https://berriop-prog.github.io/${props.projectName}`} target='_blank' rel="noopener noreferrer">Ver más</a>
+        <a href={`https://${props.projectName}.netlify.app`} target='_blank' rel="noopener noreferrer">Ver más</a>
       </div>
       <ImageContainer imgName={props.imgName} />
   </div>
